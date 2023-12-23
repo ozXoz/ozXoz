@@ -13,7 +13,7 @@
 </p>
 
 <h1>Freelance Work </h1>
-<h1 align="left">Front End Developer • Freelance Projects    https://n-six-virid.vercel.app/, https://jey-k5nsqsrkn-ozxoz.vercel.app/</h1>
+Front End Developer • Freelance Projects    https://n-six-virid.vercel.app/, https://jey-k5nsqsrkn-ozxoz.vercel.app/
  
  
     Developed two web applications, enhancing client digital presence and functionality.
