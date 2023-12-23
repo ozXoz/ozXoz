@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [www.ozkorkmaz.ca](www.ozkorkmaz.ca)
 
-- 💬 Ask me about **Passionate Full Stack Developer with a Computer Science background and 3+ years of industry experience. Specializes in JavaScript technologies, including Node.js, React, and Angular, with a proven track record of developing scalable web applications. Experienced in various databases like MongoDB, Firebase, and GraphQL. Proficient in OOP, MVC, and SOLID design principles. Familiar with Agile methodologies and efficient in delivering diverse projects, individually or as part of a team. Committed to leveraging technical skills for robust application development and database management.**
+- 💬 Full Stack Developer with a Computer Science background and 3+ years of industry experience. Specializes in JavaScript technologies, including Node.js, React, and Angular, with a proven track record of developing scalable web applications. Experienced in various databases like MongoDB, Firebase, and GraphQL. Proficient in OOP, MVC, and SOLID design principles. Familiar with Agile methodologies and efficient in delivering diverse projects, individually or as part of a team. Committed to leveraging technical skills for robust application development and database management.**
 
 - 📄 Know about my experiences [https://www.ozkorkmaz.ca/resume](https://www.ozkorkmaz.ca/resume)
 
