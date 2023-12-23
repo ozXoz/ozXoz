@@ -13,20 +13,21 @@
 </p>
 
 <h1>Freelance Work </h1>
- Front End Developer • Freelance Projects    https://n-six-virid.vercel.app/, https://jey-k5nsqsrkn-ozxoz.vercel.app/
+<h1 align="left">Front End Developer • Freelance Projects    https://n-six-virid.vercel.app/, https://jey-k5nsqsrkn-ozxoz.vercel.app/</h1>
+ 
  
     Developed two web applications, enhancing client digital presence and functionality.
     Created a responsive portfolio website from design to execution using Figma and React.
     Built an application with a 3D view interface, focusing on responsive design and user engagement.
     Integrated Toastify for user-friendly notifications and EmailJS for efficient email communication within the applications.
 
-  HeraSoft Web Solutions (Intern, May - Aug 2022)
+  HeraSoft Web Solutions (Intern, May - Aug 2022) https://www.herasoft.com.tr/
 
     Designed user-friendly web and mobile interfaces, enhancing brand visibility and customer interaction.
     Utilized Node.js, ReactJS, Apollo Server, MongoDB, SQL, and Firebase for robust application development.
     Focused on responsive design, data management, and application performance.
 
-Employee Management System (Freelance, Dec 2022 - Mar 2023)
+Employee Management System (Freelance, Dec 2022 - Mar 2023) 
 
     Developed an efficient system for managing employee details and salaries using Apollo Server, GraphQL, and Angular.
 
