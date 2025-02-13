@@ -1,76 +1,78 @@
-<h1 align="center">Hi 👋, I'm Oz Onur</h1>
-<h3 align="center">Full Stack Developer</h3>
+# Hi 👋, I'm Onur Korkmaz  
+### Full Stack Developer | Toronto, Canada  
+[www.ozkorkmaz.ca](https://www.ozkorkmaz.ca) | [GitHub](https://github.com/ozXoz) | [LinkedIn](https://www.linkedin.com/in/onur-korkmaz/) | honourkorkmaz@gmail.com | 647-607-3838  
 
-- 👨‍💻 All of my projects are available at [www.ozkorkmaz.ca](www.ozkorkmaz.ca)
+---
 
-- 💬 Full Stack Developer with a Computer Science background and 3+ years of industry experience. Specializes in JavaScript technologies, including Node.js, React, and Angular, with a proven track record of developing scalable web applications. Experienced in various databases like MongoDB, Firebase, and GraphQL. Proficient in OOP, MVC, and SOLID design principles. Familiar with Agile methodologies and efficient in delivering diverse projects, individually or as part of a team. Committed to leveraging technical skills for robust application development and database management.**
+## Executive Summary  
+Innovative Full Stack Developer with expertise in building scalable and secure web applications. Skilled in designing efficient architectures, optimizing performance, and enhancing user experiences through modern technologies. Proven ability to develop full-stack solutions with a strong emphasis on clean code and scalable architecture.  
 
-- 📄 Know about my experiences [https://www.ozkorkmaz.ca/resume](https://www.ozkorkmaz.ca/resume)
+---
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://www.linkedin.com/in/onur-korkmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onur-korkmaz/" height="30" width="40" /></a>
-</p>
+## Skills  
+- **Programming:** JavaScript, Python, SQL  
+- **Frameworks & Libraries:** Node.js, Flask, React.js, Express.js, Socket.IO, Mongoose  
+- **Backend Development:** RESTful APIs, JWT Authentication, WebSocket  
+- **Databases:** MongoDB, SQL, Firebase, GraphQL  
 
-<h1>Freelance Work </h1>
-Front End Developer • Freelance Projects    https://n-six-virid.vercel.app/, https://jey-k5nsqsrkn-ozxoz.vercel.app/
- 
- 
-    Developed two web applications, enhancing client digital presence and functionality.
-    Created a responsive portfolio website from design to execution using Figma and React.
-    Built an application with a 3D view interface, focusing on responsive design and user engagement.
-    Integrated Toastify for user-friendly notifications and EmailJS for efficient email communication within the applications.
+---
 
-  HeraSoft Web Solutions (Intern, May - Aug 2022) https://www.herasoft.com.tr/
+## Professional Experience  
 
-    Designed user-friendly web and mobile interfaces, enhancing brand visibility and customer interaction.
-    Utilized Node.js, ReactJS, Apollo Server, MongoDB, SQL, and Firebase for robust application development.
-    Focused on responsive design, data management, and application performance.
+### Full Stack Developer | Sword Garage Web & Mobile App  
+**October 2024 – Present | Toronto, Canada**  
+- Designed and deployed a multilingual landing page and mobile mechanic booking platform using React, i18n.js, and 13 reusable components across 6 languages.  
+- Optimized SEO using React Helmet, sitemaps, and Google Search Console for improved performance and visibility.  
+- Developed a Flask-based backend for secure user authentication, appointment scheduling, and availability management using JWT and MongoDB.  
+- Integrated advanced APIs for booking appointments, user roles, and car data management.  
 
-Employee Management System (Freelance, Dec 2022 - Mar 2023) 
+### Backend Developer | TrioTech Web  
+**August 2024 – October 2024 | Calgary, Canada**  
+- Built a full-stack messaging system with React frontend and Flask backend for secure authentication (JWT), data validation, and MongoDB integration.  
+- Architected a secure backend for an invoice management application using Express.js and MongoDB, with role-based access control and scalable RESTful APIs.  
+- Developed a scalable eCommerce platform with features for product and order management, secure user authentication, and efficient cart handling using Express.js and MongoDB.  
 
-    Developed an efficient system for managing employee details and salaries using Apollo Server, GraphQL, and Angular.
+### Full Stack Developer | Koyuncu Elektronik  
+**December 2023 – August 2024 | Istanbul, Turkey**  
+- Revamped B2B e-commerce portals using React.js and Node.js, improving dealer order processing by 30%.  
+- Integrated logistics APIs (Samsung, TP-Link) to automate inventory tracking, reducing supply chain delays by 20%.  
+- Designed a JWT-secured authentication system for dealer portals, enhancing data security compliance with ISO 27001 standards.  
 
-Online Tutoring Platform (Capstone Project, Sep 2022 - Mar 2023)
+### Junior Backend Developer | Ozkoyuncu Madencilik A.S  
+**April 2023 – December 2023 | Kayseri, Turkey**  
+- Developed RESTful APIs for mining equipment sensor integration, enabling real-time monitoring of 2M+ tons/year iron ore production.  
+- Optimized MongoDB queries for geological data storage, improving report generation speed by 35%.  
+- Collaborated on ERP system modernization, enhancing inventory and shipment tracking.  
 
-    Built a 24/7 tutoring platform with MongoDB, Node.js, React, Firebase, and ZegoExpress Engine for video communication.
+### Backend Developer Intern | Ozkoyuncu Madencilik A.S  
+**May 2022 – August 2022 | Kayseri, Turkey**  
+- Automated Python scripts for quality control reporting, reducing manual workload by 50%.  
+- Supported Express.js/SQL backend development for enrichment plant dashboards, enhancing data visibility for operational teams.  
 
-Ecommerce Project (Freelance, May - Jun 2023)
+---
 
-    Created an ecommerce platform using Node.js, React, MongoDB, CSS, and Bootstrap with Stripe integration for secure transactions.
+## Featured Projects  
 
+### **Sword Garage Web & Mobile App**  
+- [Visit Website](https://swordgarage.com) | [GitHub](https://github.com/ozXoz/py-react-native)  
+Developed a multilingual web and mobile mechanic booking platform with a Flask backend, React frontend, and MongoDB integration.  
 
+### **Employee Management System**  
+- Designed and built an employee management system using Apollo Server, GraphQL, and Angular.  
 
+### **Online Tutoring Platform (Capstone Project)**  
+- Built a 24/7 tutoring platform with MongoDB, Node.js, React, Firebase, and ZegoExpress Engine for video communication.  
 
+### **Ecommerce Project**  
+- Created an ecommerce platform using Node.js, React, MongoDB, and Stripe integration for secure transactions.  
 
-<h3 align="left">Programming Languages</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="right">Frontend Development</h3>
-<p align="right"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## Education  
+**Computer Programming and Analysis – Advanced Diploma**  
+*George Brown College, Toronto, ON*
 
-<h3 align="left">Backend Development</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a  </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="right">Mobile App Development</h3>
-<p align="right"> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-
-<h3 align="left">AI/ML</h3>
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<h3 align="right">Database</h3>
-<p align="right"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/onur-korkmaz/) | [GitHub](https://github.com/ozXoz) | [www.ozkorkmaz.ca](https://www.ozkorkmaz.ca)  
